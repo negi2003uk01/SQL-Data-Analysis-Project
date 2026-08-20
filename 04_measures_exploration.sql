@@ -46,4 +46,3 @@ SELECT 'Total Products', COUNT(DISTINCT product_name) FROM gold.dim_products
 UNION ALL
 SELECT 'Total Customers', COUNT(customer_key) FROM gold.dim_customers;
 
-![Business Insights](screenshots/SQLbusiness_inside.png)
