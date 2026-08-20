@@ -71,8 +71,4 @@ Through this project, I improved my ability to use SQL for exploratory analysis 
 
 I also practiced writing SQL queries in a structured way and understanding how different SQL techniques can be combined to answer analytical questions.
 
-## ⚠️ Disclaimer
 
-This is a learning project based on publicly available educational resources from Data With Baraa. The dataset and original learning materials are not my original creation.
-
-For the original project and materials, please visit the source repository linked above.
