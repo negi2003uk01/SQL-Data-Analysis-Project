@@ -1,6 +1,11 @@
 # SQL-Exploratory-Data-Analysis-Learning-Project
 EDA using SQL Server Management Studio 22
 
+## 📸 Project Screenshots
+
+###  Business Insights
+
+![Business Insights](screenshots/SQLbusiness inside.png)
 
 # SQL Exploratory Data Analysis (EDA)
 
