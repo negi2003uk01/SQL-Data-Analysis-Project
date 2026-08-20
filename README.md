@@ -6,6 +6,7 @@ EDA using SQL Server Management Studio 22
 ###  Business Insights
 
 ![Business Insights](screenshots/SQLbusiness_inside.png)
+![Cumulative_analysis](
 
 # SQL Exploratory Data Analysis (EDA)
 
