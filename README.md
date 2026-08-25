@@ -50,21 +50,7 @@ The analysis includes:
 7. Customer segmentation
 8. Product analysis
 9. Identifying trends and patterns
-10. Generating business insights
-
-## 📚 Learning Source & Attribution
-
-This project was created for educational and portfolio purposes.
-
-I learned the SQL EDA methodology and project structure from **Data With Baraa** and used the dataset/materials provided through his SQL EDA learning resources.
-
-Original source:
-
-* Data With Baraa: https://www.youtube.com/@DataWithBaraa
-
-All credit for the original dataset and learning materials belongs to Data With Baraa.
-
-This repository represents my learning and practice using SQL. 
+10. Generating business insists 
 
 ## 🎯 What I Learned
 
