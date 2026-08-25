@@ -61,11 +61,10 @@ I learned the SQL EDA methodology and project structure from **Data With Baraa**
 Original source:
 
 * Data With Baraa: https://www.youtube.com/@DataWithBaraa
-* SQL Data Analytics Project: https://github.com/DataWithBaraa/sql-data-analytics-project
 
 All credit for the original dataset and learning materials belongs to Data With Baraa.
 
-This repository represents my learning and practice using SQL. I have not created the original dataset or tutorial materials.
+This repository represents my learning and practice using SQL. 
 
 ## 🎯 What I Learned
 
