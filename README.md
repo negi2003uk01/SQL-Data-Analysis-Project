@@ -5,7 +5,7 @@ EDA using SQL Server Management Studio 22
 
 ###  Business Insights
 
-![Customer_report](screenshoyts/Customer_report.png)
+![Customer_report](screenshots/Customer_report.png)
 
 ![Business Insights](screenshots/SQLbusiness_inside.png)
 
